@@ -47,7 +47,7 @@ This project is a Gym Management System written in C++. It provides functionalit
      ./gym_management_system
 
 
-#### Usage
+## Usage
 ### New Member
 1. To register a new member, choose the option for new members from the main menu.
 2. Enter the required details such as full name, email address, phone number, and address.
