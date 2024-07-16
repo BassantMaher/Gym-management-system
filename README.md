@@ -41,11 +41,9 @@ This project is a Gym Management System written in C++. It provides functionalit
     ```sh
     g++ -o gym_management_system main.cpp
 
-
 4. Run the program:
      ```sh
      ./gym_management_system
-
 
 ## Usage
 ### New Member
